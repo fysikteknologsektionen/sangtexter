@@ -1,3 +1,5 @@
+**OBS:** Detta projekt har flyttats till [fysikteknologsektionen/sanger](https://github.com/fysikteknologsektionen/sanger).
+
 # Sangtexter
 Sångtexter till sånghäftet och sjungboken.
 
